@@ -1,5 +1,8 @@
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
+authors = [
+    'Substrate DevHub <https://github.com/substrate-developer-hub>',
+    'Nolan Unruh'
+]
 edition = '2018'
 homepage = 'https://substrate.dev'
 license = 'Unlicense'
